@@ -27,5 +27,7 @@ public class Compra {
         System.out.println("Oi");
         System.out.println("Mensagem do Arthur");
         System.out.println("Engenharia de Software");
+        System.out.println("Teste Leonardo");
+        System.out.println("Frutal");
     }
 }
