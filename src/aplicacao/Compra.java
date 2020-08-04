@@ -25,5 +25,7 @@ public class Compra {
         System.out.println("Valor a pagar:     " + compra.getTotal());
         System.out.println("tESTE");
         System.out.println("Oi");
+        System.out.println("Mensagem do Arthur");
+        System.out.println("Engenharia de Software");
     }
 }
